@@ -1,0 +1,2 @@
+# FreeCustomFaviconIcoFile
+FreeCustomFaviconIcoFile
